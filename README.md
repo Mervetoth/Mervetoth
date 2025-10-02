@@ -25,7 +25,7 @@ sécurisées (Keycloak), <b>industrielles</b> (CI/CD, Docker) — avec un goût 
 
 ## 🌱 What I’m into
 - Microservices **Java/Spring Boot** + frontend **Angular/React**
-- **CI/CD & Docker**, qualité (tests, SonarQube)
+- **CI/CD & Docker**, qualité (tests)
 - **IA appliquée** (phishing detection, NLP, classification)
 - **Blockchain** (ERC-721/2981, IPFS, royalties)
 - Standard **ISO/IEC 21000-23 (MPEG-21 Smart Contracts for Media)**
@@ -36,24 +36,3 @@ sécurisées (Keycloak), <b>industrielles</b> (CI/CD, Docker) — avec un goût 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,react,nodejs,python,django,postgres,mysql,mongodb,docker,git,keycloak"/>
 </p>
-
-
-
-
----
-
-## 🐍 My Contributions
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mervetoth/Mervetoth/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mervetoth/Mervetoth/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Mervetoth/Mervetoth/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-<div align="center">
-  <sub>Visitor count</sub><br/>
-  <img src="https://profile-counter.glitch.me/Mervetoth/count.svg" />
-</div>
